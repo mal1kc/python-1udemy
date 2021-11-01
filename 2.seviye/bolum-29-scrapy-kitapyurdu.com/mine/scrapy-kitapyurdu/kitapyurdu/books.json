@@ -1,0 +1,512 @@
+{
+    "page_1": {
+        "0": {
+            "name": "\u0130lim Yolunun Edepleri",
+            "author": " R\u0131fat Ilgaz",
+            "publisher": "MARUF YAYINEV\u0130"
+        },
+        "1": {
+            "name": "D\u00f6rd\u00fcnc\u00fc B\u00f6l\u00fck",
+            "author": " Muharrirler ",
+            "publisher": "\u00c7INAR YAYINLARI"
+        },
+        "2": {
+            "name": "T\u00fcrkmen A\u015firetleri",
+            "author": "Dr. Frayli\u00e7 ",
+            "publisher": "IQ K\u00dcLT\u00dcR SANAT YAYINCILIK"
+        },
+        "3": {
+            "name": "\u00c7ocukluk Liman\u0131ma S\u0131\u011f\u0131nan Foklar",
+            "author": "M\u00fchendis Ravlig ",
+            "publisher": "\u00c7INAR YAYINLARI"
+        },
+        "4": {
+            "name": "Bug\u00fcnden Yar\u0131na T\u00fcrk D\u00fcnyas\u0131na Stratejik Bak\u0131\u015f",
+            "author": " Nilg\u00fcn Ilgaz",
+            "publisher": "IQ K\u00dcLT\u00dcR SANAT YAYINCILIK"
+        },
+        "5": {
+            "name": "\u00c7at\u0131\u015fan Feminizmler & Felsefi Fikir Al\u0131\u015fveri\u015fi",
+            "author": " \u00d6zcan Yeni\u00e7eri",
+            "publisher": "MET\u0130S YAYINLARI"
+        },
+        "6": {
+            "name": "Mesnevi-i Nuriye Terc\u00fcmesi-2 (G\u00fcn\u00fcm\u00fcz T\u00fcrk\u00e7esiyle ve A\u00e7\u0131klamal\u0131) (Kar\u015f\u0131la\u015ft\u0131rmal\u0131 Tam Metin)",
+            "author": " \u015eeyla Benhabib",
+            "publisher": "MUTLU YAYINCILIK"
+        },
+        "7": {
+            "name": "\u0130lim ve Hareket Adam\u0131 - Mehmet Said Ert\u00fcrk",
+            "author": " Judith Butler",
+            "publisher": "BEYAN YAYINLARI"
+        },
+        "8": {
+            "name": "Zekat Kitab\u0131",
+            "author": " Nancy Fraser",
+            "publisher": "ENSAR NE\u015eR\u0130YAT"
+        },
+        "9": {
+            "name": "Dua Nedir?",
+            "author": " Drucilla Cornell",
+            "publisher": "ENSAR NE\u015eR\u0130YAT"
+        },
+        "10": {
+            "name": "Hac Kitab\u0131",
+            "author": "Bedi\u00fczzaman Said Nursi",
+            "publisher": "ENSAR NE\u015eR\u0130YAT"
+        },
+        "11": {
+            "name": "Kur'an K\u0131lavuzu",
+            "author": " Mehmet \u00c7elen",
+            "publisher": "ENSAR NE\u015eR\u0130YAT"
+        },
+        "12": {
+            "name": "Sufi Ahlak\u0131",
+            "author": " Mehmet G\u00fcnay",
+            "publisher": "ENSAR NE\u015eR\u0130YAT"
+        },
+        "13": {
+            "name": "\u00c7a\u011fda\u015f \u0130nkarc\u0131l\u0131k",
+            "author": " Ayhan Tekine\u015f",
+            "publisher": "ENSAR NE\u015eR\u0130YAT"
+        },
+        "14": {
+            "name": "Diz \u00c7\u00f6kmeyen Adam Ramazan Keskin Hoca",
+            "author": " Abdullah \u00d6zcan",
+            "publisher": "BEYAN YAYINLARI"
+        },
+        "15": {
+            "name": "Kur'an'a G\u00f6re \u0130deal M\u00fcmin",
+            "author": " Murat S\u00fcl\u00fcn",
+            "publisher": "ENSAR NE\u015eR\u0130YAT"
+        },
+        "16": {
+            "name": "Kurban Kitab\u0131",
+            "author": " Himmet Konur",
+            "publisher": "ENSAR NE\u015eR\u0130YAT"
+        },
+        "17": {
+            "name": "Esmai H\u00fcsna",
+            "author": " Muhammed Altayta\u015f",
+            "publisher": "ENSAR NE\u015eR\u0130YAT"
+        },
+        "18": {
+            "name": "B\u00fcy\u00fcyen Ay (3-B-15)",
+            "author": " \u015eevket Ba\u015f\u0131b\u00fcy\u00fck",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "19": {
+            "name": "Zadig ve Ba\u015fka Hikayeler (3-B-16)",
+            "author": " Mustafa Altunda\u011f",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        }
+    },
+    "page_2": {
+        "0": {
+            "name": "Yarat\u0131l\u0131\u015f ve Gayelilik (3-B-9)",
+            "author": " H\u00fcseyin Ak\u0131n",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "1": {
+            "name": "Yahya Kemal ile Bir Medeniyeti Yeniden Okumak (3-F-1)",
+            "author": " Honore de Balzac",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "2": {
+            "name": "Vadideki Zambak (3-B-10)",
+            "author": " G\u00fcl I\u015f\u0131k",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "3": {
+            "name": "Yeni \u00c7a\u011f\u0131n E\u015fi\u011finde Dante (3-B-11)",
+            "author": " V. Sabatelli",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "4": {
+            "name": "D\u00fc\u015f\u00fcnme Sanat\u0131 (3-B-19)",
+            "author": " Jean Guitton",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "5": {
+            "name": "M\u00fcsbet \u0130lim Y\u00f6n\u00fcnden Tevrat \u0130nciller ve Kur'an (3-B-7)",
+            "author": " Maurice Bucaille",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "6": {
+            "name": "William Faulkner (3-B-18)",
+            "author": " Talat Sait Halman",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "7": {
+            "name": "Rivayet \u0130limlerinde Haber-i Vahitlerin \u0130tikat ve Te\u015fri Y\u00f6nlerinden De\u011feri (1-C-18)",
+            "author": "Prof. Dr. Ali Osman Ko\u00e7kuzu",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "8": {
+            "name": "Sosyal ve K\u00fclt\u00fcrel A\u00e7\u0131dan Konya",
+            "author": " Muhittin Tu\u015f",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "9": {
+            "name": "Casuslar Sava\u015f\u0131 (12-G-18 )",
+            "author": " Jimmy   Sangster",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "10": {
+            "name": "Atlantis'in Uyan\u0131\u015f\u0131 /  Poseidon Sava\u015f\u00e7\u0131lar\u0131",
+            "author": " Alyssa Day",
+            "publisher": "MARTI YAYINLARI"
+        },
+        "11": {
+            "name": "Banka Hizmetleri Pazarlamas\u0131",
+            "author": " A. Aslan \u015eendo\u011fdu",
+            "publisher": "L\u0130TERAT\u00dcRK ACADEM\u0130A"
+        },
+        "12": {
+            "name": "Bilgisayar & Fak\u00fclteler ve Y\u00fcksekokullar \u0130\u00e7in",
+            "author": "Dr. Mete Sezgin",
+            "publisher": "EK\u0130N K\u0130TABEV\u0130 YAYINLARI"
+        },
+        "13": {
+            "name": "Bor Beldesi \u0130skele (3-B-4)",
+            "author": " Kollektif ",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "14": {
+            "name": "Enerji Hukuku Cilt:2",
+            "author": " Zekeriya \u00d6zdemir",
+            "publisher": "EK\u0130N K\u0130TABEV\u0130 YAYINLARI"
+        },
+        "15": {
+            "name": "\u0130slam Felsefenin Sorunlar\u0131",
+            "author": "Prof. Dr. \u0130. Y\u0131lmaz Aslan",
+            "publisher": "EL\u0130S YAYINLARI"
+        },
+        "16": {
+            "name": "K\u00fcreselle\u015fen D\u00fcnyada Kad\u0131n\u0131n Ekonomik Konumu",
+            "author": " Kollektif ",
+            "publisher": "EK\u0130N K\u0130TABEV\u0130 YAYINLARI"
+        },
+        "17": {
+            "name": "Kapanc\u0131zade Hamit Bey",
+            "author": " Mevl\u00fcdiye \u015eim\u015fek",
+            "publisher": "YED\u0130TEPE YAYINEV\u0130"
+        },
+        "18": {
+            "name": "Fishes Of The Eastern Mediterranean",
+            "author": " Halit Eken",
+            "publisher": "\u0130LKE BASIN YAYIM"
+        },
+        "19": {
+            "name": "Kariyere \u0130lk Ad\u0131m",
+            "author": "Prof. Dr. Bayram \u00d6zt\u00fcrk",
+            "publisher": "EK\u0130N K\u0130TABEV\u0130 YAYINLARI"
+        }
+    },
+    "page_3": {
+        "0": {
+            "name": "Osmanl\u0131 Devletinde Surre-i H\u00fcmayun ve Surre Alaylar\u0131 (1-C-17)",
+            "author": " M\u00fcnir Atalar",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "1": {
+            "name": "\u0130nsan\u0131n Estetik E\u011fitimi \u00dczerine Bir Dizi Mektup (3-C-4)",
+            "author": " Friedrich Von Schiller",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "2": {
+            "name": "Varolu\u015fun Tan\u0131klar\u0131",
+            "author": "Dr. Turan Ko\u00e7",
+            "publisher": "HECE YAYINLARI"
+        },
+        "3": {
+            "name": "\u015eerefu Ashabi'l-Hadis (3-B-2)",
+            "author": " El-Hatibu'l-Ba\u011fdadi ",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "4": {
+            "name": "Elemim Bir Y\u00fcre\u011fin Kar\u0131 De\u011fil (Ciltli+\u015e\u00f6mizli) & Mehmet Akif Alb\u00fcm\u00fc",
+            "author": " \u0130smail Kara",
+            "publisher": "T\u0130MA\u015e YAYINLARI"
+        },
+        "5": {
+            "name": "\u00d6lmeden \u00d6nce Ke\u015ffetmeniz Gereken 5 S\u0131r",
+            "author": " Fulya \u0130bano\u011flu",
+            "publisher": "PEGASUS YAYINLARI"
+        },
+        "6": {
+            "name": "Kendi Kendinize Felsefe \u00d6\u011frenin",
+            "author": "Dr. John Izzo",
+            "publisher": "PEGASUS YAYINLARI"
+        },
+        "7": {
+            "name": "Ali \u00dcsk\u00fcdari & Tezhip ve Rugani \u00dcstad\u0131 \u00c7i\u00e7ek Ressam\u0131",
+            "author": " Mel Thompson",
+            "publisher": "KUBBEALTI NE\u015eR\u0130YAT"
+        },
+        "8": {
+            "name": "C. B. Macpherson'un Liberal Demokrasi Ele\u015ftirisi",
+            "author": " G\u00fclnur Duran",
+            "publisher": "ARI SANAT YAYINEV\u0130"
+        },
+        "9": {
+            "name": "A\u011fa\u00e7eri T\u00fcrkmenleri Tahtac\u0131lar",
+            "author": "Dr. Naci \u0130spir",
+            "publisher": "IQ K\u00dcLT\u00dcR SANAT YAYINCILIK"
+        },
+        "10": {
+            "name": "\u0130slam'a G\u00f6re H\u0131ristiyanl\u0131k",
+            "author": " Ali Sel\u00e7uk",
+            "publisher": "IQ K\u00dcLT\u00dcR SANAT YAYINCILIK"
+        },
+        "11": {
+            "name": "Be\u015finci Pencere & Cemil Kavuk\u00e7u Kitab\u0131",
+            "author": "Yrd. Do\u00e7. Dr. \u0130brahim Kaplan",
+            "publisher": "CAN YAYINLARI"
+        },
+        "12": {
+            "name": "Arkam\u0131zda D\u00f6nen Dolaplar",
+            "author": " Melike Ko\u00e7ak",
+            "publisher": "KUBBEALTI NE\u015eR\u0130YAT"
+        },
+        "13": {
+            "name": "Ord.Prof. Dr. Ali Fuad Ba\u015fgil Bibliyografyas\u0131",
+            "author": " Samiha Ayverdi",
+            "publisher": "KUBBEALTI NE\u015eR\u0130YAT"
+        },
+        "14": {
+            "name": "Hasbihaller",
+            "author": " Arif A\u015f\u00e7\u0131",
+            "publisher": "KUBBEALTI NE\u015eR\u0130YAT"
+        },
+        "15": {
+            "name": "Hattat Aziz Efendi",
+            "author": " Zeynep Uluant",
+            "publisher": "KUBBEALTI NE\u015eR\u0130YAT"
+        },
+        "16": {
+            "name": "Minik Eller Nefis Yemekler",
+            "author": " Muhittin Serin",
+            "publisher": "NAKKA\u015e"
+        },
+        "17": {
+            "name": "Onbirinci Saat",
+            "author": " Deniz Gez Kaleli",
+            "publisher": "\u0130NSAN YAYINLARI"
+        },
+        "18": {
+            "name": "Kur'an \u0130limleri ve Tefsir Ist\u0131lahlar\u0131 KOD:5-E-63",
+            "author": " Martin Lings",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "19": {
+            "name": "Heidi",
+            "author": "Yard. Do\u00e7. Dr. Muammer Erba\u015f",
+            "publisher": "BEYAN \u00c7OCUK"
+        }
+    },
+    "page_4": {
+        "0": {
+            "name": "\u00d6l\u00fc Canlar",
+            "author": " Nikolay Vasilievich Gogol",
+            "publisher": "BEYAN YAYINLARI"
+        },
+        "1": {
+            "name": "4. ve 5. S\u0131n\u0131f Hikaye Sepeti  (50 Kitap) ",
+            "author": " Kollektif ",
+            "publisher": "\u00d6ZY\u00dcREK YAYINEV\u0130"
+        },
+        "2": {
+            "name": "Can Esintisi",
+            "author": " Nasrullah P\u00fcrcevadi",
+            "publisher": "\u0130NSAN YAYINLARI"
+        },
+        "3": {
+            "name": "Tefsir Usul\u00fc",
+            "author": " Halis Albayrak",
+            "publisher": "\u015eULE YAYINLARI"
+        },
+        "4": {
+            "name": "Bebek \u0130le M\u00fccahit",
+            "author": " Mahmut \u00c7etin",
+            "publisher": "B\u0130YOGRAF\u0130.NET"
+        },
+        "5": {
+            "name": "Liberalizmden Sonra",
+            "author": " Immanuel Wallerstein",
+            "publisher": "MET\u0130S YAYINLARI"
+        },
+        "6": {
+            "name": "Dikkat Eksikli\u011fi Bozuklu\u011fu",
+            "author": " Edward M. Hallowell",
+            "publisher": "POZ\u0130T\u0130F YAYINLARI"
+        },
+        "7": {
+            "name": "Samiha Ayverdi Bibliyografyas\u0131-2 (Ciltli)",
+            "author": "Dr. John J. Ratey",
+            "publisher": "KUBBEALTI NE\u015eR\u0130YAT"
+        },
+        "8": {
+            "name": "A\u015fkta ve Sava\u015fta / Tudor G\u00fcl\u00fc \u00dc\u00e7lemesi 3",
+            "author": " \u0130smet Binark",
+            "publisher": "PEGASUS YAYINLARI"
+        },
+        "9": {
+            "name": "Kadim Ermeni Papal\u0131\u011f\u0131 E\u00e7miyazin Kilisesi'nde Stratejik Sava\u015flar",
+            "author": " Susan Wiggs",
+            "publisher": "\u0130D\u0130L YAYINCILIK"
+        },
+        "10": {
+            "name": "Muas\u0131r Medeniyet \u00c7\u0131kmaz\u0131nda T\u00fcrkiye",
+            "author": "Prof. Dr. Ali Arslan",
+            "publisher": "\u0130D\u0130L YAYINCILIK"
+        },
+        "11": {
+            "name": "Gayr-i M\u00fcslim \u0130dare Alt\u0131nda M\u00fcsl\u00fcmanlar\u0131n Din E\u011fitimi & Avusturya-Macaristan D\u00f6nemi Bosna 1878-1918",
+            "author": " Emel Poyraz",
+            "publisher": "\u0130D\u0130L YAYINCILIK"
+        },
+        "12": {
+            "name": "Marx ve Anar\u015fistler",
+            "author": " Ay\u015fe Zi\u015fan Furat",
+            "publisher": "\u00dcTOPYA YAYINEV\u0130"
+        },
+        "13": {
+            "name": "Bat\u0131 Poley Ser\u00fcvenimiz",
+            "author": " Paul Thomas",
+            "publisher": "\u00dcTOPYA YAYINEV\u0130"
+        },
+        "14": {
+            "name": "G\u00f6z G\u00f6rd\u00fc G\u00f6n\u00fcl Sevdi & Seyahat Notlar\u0131",
+            "author": " Thomas Hardy",
+            "publisher": "DERGAH YAYINLARI"
+        },
+        "15": {
+            "name": "Enver Pa\u015fa Komitenin Kahraman\u0131 ",
+            "author": " Mehmet S\u0131lay",
+            "publisher": "YED\u0130TEPE YAYINEV\u0130"
+        },
+        "16": {
+            "name": "Hermes'ten \u0130dris'e Bir Dinsel Gelene\u011fin D\u00f6n\u00fc\u015f\u00fcm Dinamikleri",
+            "author": " Mustafa \u00c7olak",
+            "publisher": "\u00dcTOPYA YAYINEV\u0130"
+        },
+        "17": {
+            "name": "Plevne M\u00fcdafaas\u0131 & K\u0131skan\u00e7l\u0131klar\u0131n Kaybettirdi\u011fi Balkanlar",
+            "author": " Sibel \u00d6zbudun",
+            "publisher": "BABIAL\u0130 K\u00dcLT\u00dcR YAYINCILI\u011eI"
+        },
+        "18": {
+            "name": "Kella (Ciltli)",
+            "author": " Mahmud Talat Bey ",
+            "publisher": "YENDA"
+        },
+        "19": {
+            "name": "\u0130bn Battuta Seyahatnamesi (2 Cilt Tak\u0131m)",
+            "author": " Mustafa \u00c7elik",
+            "publisher": "YAPI KRED\u0130 YAYINLARI"
+        }
+    },
+    "page_5": {
+        "0": {
+            "name": "Bergama'dan Hasankeyf'e Madenler ve Emperyalizm",
+            "author": " Kaan Turhan",
+            "publisher": "IQ K\u00dcLT\u00dcR SANAT YAYINCILIK"
+        },
+        "1": {
+            "name": "Tahavi \u015eerhi Gen\u00e7ler \u0130\u00e7in Akaid Dersleri",
+            "author": "Prof. Dr. Muhammed El-Humeyyis",
+            "publisher": "GURABA YAYINLARI"
+        },
+        "2": {
+            "name": "Avc\u0131 Prenses Zeyneb Halim ile Sohbetler",
+            "author": " Derin T\u00fcrk\u00f6mer",
+            "publisher": "YAPI KRED\u0130 YAYINLARI"
+        },
+        "3": {
+            "name": "H\u0131z\u0131rname / Alevi Bekta\u015fi Klasikleri -8",
+            "author": " Seyyid Alizade Hasan b. M\u00fcsl\u00fcm ",
+            "publisher": "D\u0130YANET VAKFI YAYINLARI"
+        },
+        "4": {
+            "name": "\u0130slam'\u0131 Nas\u0131l Anlamal\u0131y\u0131z",
+            "author": " Muhammed Gazali",
+            "publisher": "D\u00dc\u015e\u00dcN YAYINCILIK"
+        },
+        "5": {
+            "name": "Esir \u015eehrin Mahpusu (12-G-15 )",
+            "author": " Kemal Tahir ",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "6": {
+            "name": "Barbar Denen \u00d6tekiler",
+            "author": " Ziauddin Sardar",
+            "publisher": "\u0130Z YAYINCILIK"
+        },
+        "7": {
+            "name": "G\u00fczel \u00d6l\u00fcler -3",
+            "author": " Merryl Wyn Davies",
+            "publisher": "PEGASUS YAYINLARI"
+        },
+        "8": {
+            "name": "D\u00f6n\u00fc\u015f\u00fcm / D\u00f6n\u00fc\u015f\u00fcm Serisi -5",
+            "author": " Ashis Nandy",
+            "publisher": "PEGASUS YAYINLARI"
+        },
+        "9": {
+            "name": "S\u00f6z\u00fcn B\u00fcy\u00fcs\u00fc",
+            "author": " Eden Maguire",
+            "publisher": "DORUK YAYINLARI"
+        },
+        "10": {
+            "name": "J\u00f6nler",
+            "author": " Rachel Vincent",
+            "publisher": "\u0130LET\u0130\u015e\u0130M YAYINLARI"
+        },
+        "11": {
+            "name": "Hiciv Edebiyat\u0131 Antolojisi (12-G-47 )",
+            "author": " Adnan Acar",
+            "publisher": "YEN\u0130 ZAMANLAR SAHAF (2. El Kitaplar)"
+        },
+        "12": {
+            "name": "\u0130ngilizce'de \u00d6zel Kullan\u0131mlar 500 Soru - 500 Yan\u0131t",
+            "author": " Nilg\u00fcn Polat",
+            "publisher": "DORUK YAYINLARI"
+        },
+        "13": {
+            "name": "Hayata Dair...",
+            "author": " Bekir Fahri",
+            "publisher": "MAV\u0130 A\u011eA\u00c7"
+        },
+        "14": {
+            "name": "Paris Tablosu",
+            "author": " Hilmi Y\u00fcceba\u015f",
+            "publisher": "\u0130THAK\u0130 YAYINLARI"
+        },
+        "15": {
+            "name": "Selo'nun Ku\u015flar\u0131",
+            "author": " Geveze ",
+            "publisher": "CAN \u00c7OCUK YAYINLARI"
+        },
+        "16": {
+            "name": "Din ve Kimlik",
+            "author": " Louis Sebastien Mercier",
+            "publisher": "D\u0130YANET VAKFI YAYINLARI"
+        },
+        "17": {
+            "name": "Kur'an-\u0131 Kerim'de Yahudiler ve H\u0131ristiyanlar",
+            "author": " Cemil Kavuk\u00e7u",
+            "publisher": "D\u0130YANET VAKFI YAYINLARI"
+        },
+        "18": {
+            "name": "\u0130slam'da T\u00fcketici Haklar\u0131",
+            "author": "Prof. Dr. Cemal Tosun",
+            "publisher": "D\u0130YANET VAKFI YAYINLARI"
+        },
+        "19": {
+            "name": "Aliya",
+            "author": "Do\u00e7. Dr. M. Fatih Kesler",
+            "publisher": "CERES YAYINLARI"
+        }
+    }
+}

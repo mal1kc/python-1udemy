@@ -1,0 +1,43 @@
+{% extends 'layout.html' %}
+
+{% block title %}
+makaleler
+{% endblock title %}
+
+{% block body %}
+<h3>makaleler</h3>
+<hr>
+
+{% if articles %}
+<form action="/search" method = "post" >
+<div class="input-group mb-3">
+  <input type="text" class="form-control" name = "keyword" placeholder="..." aria-label="" aria-describedby="basic-addon1">
+  <button class="btn btn-outline-primary" type="sumbit">ara</button>
+</div> 
+</form>
+<ul class="list-group">
+  <table class="table table-hover">
+        <thead>
+            <tr>
+            <th scope="col">makale adı</th>
+            <th scope="col">yazar</th>
+            <th scope="col">makale tarihi</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for article in articles %}
+            <tr>
+            <td><a href="/article/{{article.id}}">{{article.title}}</a></td>
+            <td><a href="/author/{{article.author}}"><img src="{{article.author_photo}}" alt="au-photo"  style="height:35px; border-radius: 50%; border: 2px solid #ffffff;"><a href="/author/{{article.author}}">{{article.author}}</a></td>
+            <td>{{article.created_date}}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+        </table>
+</ul>
+{% else %}
+<div class="alert alert-danger">bu blogra henüz makale bulunmuyor</div>
+{% endif %}
+
+
+{% endblock body %}

@@ -1,0 +1,32 @@
+{% extends "layout.html" %}
+{% block title %}kontrol paneli{% endblock title %}
+
+{% block body %}
+
+{% if articles %}
+<h4>{{articles[0].author}}</h5>
+<ul class="list-group">
+        <table class="table table-hover">
+        <thead>
+            <tr>
+            <th scope="col">yazar</th>
+            <th scope="col">makale adı</th>
+            <th scope="col">makale tarihi</th>
+            <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for article in articles %}
+            <tr>
+            <th scope="row"><img src="{{article.author_photo}}" alt="au-photo"  style="height:35px; border-radius: 50%; border: 2px solid #ffffff;">{{article.author}}</th>
+            <td><a href="/article/{{article.id}}">{{article.title}}</a></td>
+            <td>{{article.created_date}}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+        </table>
+</ul>
+{% else %}
+<div class="alert alert-danger">kullanıcının henüz bir makalesi yok</div>
+{% endif %}
+{% endblock body %}

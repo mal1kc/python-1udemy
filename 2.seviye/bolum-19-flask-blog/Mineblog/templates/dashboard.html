@@ -1,0 +1,44 @@
+
+
+   
+
+{% extends "layout.html" %}
+{% block title %}kontrol paneli{% endblock title %}
+
+{% block body %}
+<h2>-kontrol paneli-</h3>
+<small>hoşgeldin ,{{session["username"]}}</small>
+<hr>
+<h4>makalerin</h5>
+<hr>
+{% if articles %}
+
+<ul class="list-group">
+        <table class="table table-hover">
+        <thead>
+            <tr>
+            <th scope="col">id</th>
+            <th scope="col">makale adı</th>
+            <th scope="col">makale tarihi</th>
+            <th scope="col"></th>
+            <th scope="col"></th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for article in articles %}
+            <tr>
+            <th scope="row">{{article.id}}</th>
+            <td><a href="/article/{{article.id}}">{{article.title}}</a></td>
+            <td>{{article.created_date}}</td>
+            <td><a href="/update-article/{{article.id}}" class = "btn btn-warning">güncelle</a></td>
+            <td><a href="/delete-article/{{article.id}}" class = "btn btn-danger">sil</a></td>
+            </tr>
+            {% endfor %}
+        </tbody>
+        </table>
+          </ul>
+{% else %}
+<div class="alert alert-danger">henüz bir makaleniz yok</div>
+{% endif %}
+<a href="/addarticle" class = "btn btn-info">makale ekle</a>
+{% endblock body %}

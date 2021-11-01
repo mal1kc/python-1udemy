@@ -1,0 +1,22 @@
+{% extends 'layout.html' %}
+{% load crispy_forms_tags %}
+{% block title %}
+giriş yap
+{% endblock title %}
+{% block body %}
+
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <h3>giriş yap</h3>
+        <hr>
+        <form method="post">
+            {% csrf_token %}
+            {{ form | crispy }}
+            <button type="submit" class="btn btn-primary">giriş yap</button>
+        </form>
+        <hr>
+    </div>
+</div>
+
+
+{% endblock body %}
