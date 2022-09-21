@@ -1,0 +1,28 @@
+{% extends "layout.html" %}
+
+{% block title %}
+{% if article %}
+{{article.title}} - {{article.author}}
+{% else %}
+böyle bir makale bulunmuyor
+{% endif %}
+{% endblock title %}
+
+
+{% block body %}
+
+{% if article %}
+<h4>{{article.title}}</h4>
+<hr>
+<hr>
+{{article.content|safe}}
+<hr>
+<hr> Yazar - <a href="/author/{{article.author}}"><img src="{{article.author_photo}}" alt="au-photo"  style="height:35px; border-radius: 50%; border: 2px solid #ffffff;">{{article.author}}</a> - {{article.created_date}} -
+
+{% else %}
+<div class="alert alert-warning">
+    böyle bir makale bulunmuyor
+</div>,
+{% endif %}
+
+{% endblock body %}

@@ -1,0 +1,46 @@
+<nav class="navbar navbar-toggleable-md navbar-inverse fixed-top bg-inverse">
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarCollapse"
+    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <a class="navbar-brand" href="/">mineblog</a>
+  {% block navbar %}
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="/about">hakkımızda</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="/articles">makaleler</a>
+      </li>
+
+    </ul>
+
+    <ul class="navbar-nav ml-auto">
+
+      {% if session["logged_in"] %}
+      <li class="nav-item active">
+        <a class="nav-link" href="/dashboard">makalelerim</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="/profile-settings"><img src="{{session.user_photo_adress}}" alt="profil-fotorafı" style="height:30px; border-radius: 50%; border: 2px solid #ffffff;">profil ayarları</a>
+      </li>
+      <li class="nav-item active">
+        <a class="nav-link" href="/logout">çıkış yap</a>
+      </li>
+      {% else %}
+      <li class="nav-item active">
+        <a class="nav-link" href="/login">giriş yap</a>
+      </li>
+      {% endif %}
+      <li class="nav-item active">
+        <a class="nav-link" href="/register">kayıt ol</a>
+      </li>
+
+    </ul>
+    {% endblock navbar %}
+
+
+</nav>
+
