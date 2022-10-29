@@ -1,0 +1,13 @@
+{% if messages %}
+{% for message in messages %}
+<div{% if message.tags %} class="alert alert-{{ message.tags }}" {% else %} 
+class="alert alert-dark"
+{% endif %}>
+    {% if message.level == DEFAULT_MESSAGE_LEVELS.ERROR %}önemli: {% endif %}
+    {{ message }}
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+    </button>
+    </div>
+{% endfor %}
+{% endif %}
